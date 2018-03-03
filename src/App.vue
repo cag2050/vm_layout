@@ -40,10 +40,9 @@ export default {
     * {
         box-sizing: inherit;
 
-    &:before,
-    &:after {
-         box-sizing: inherit;
-     }
+        &:before, &:after {
+            box-sizing: inherit;
+        }
     }
     img {
         width: 100%;

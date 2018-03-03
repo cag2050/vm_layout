@@ -98,13 +98,8 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
-
     @svg 1px-border {
-        height:
-
-    2px
-
-    ;
+        height: 2px;
         @rect {
             fill: var(--color, black);
             width: 100%;
