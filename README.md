@@ -2,6 +2,9 @@
 
 ### 在Vue项目中使用vw实现移动端适配
 
+* 说明：
+postcss可以和stylus一起配合使用
+
 * 出处：https://www.w3cplus.com/mobile/vw-layout-in-vue.html
 
 > A Vue.js project

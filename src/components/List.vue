@@ -96,7 +96,6 @@ export default {
 }
 </script>
 
-<!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
     @svg 1px-border {
         height: 2px;
@@ -171,7 +170,7 @@ export default {
         background: #fff;
         border-bottom: 1px solid transparent;
         margin-bottom: 15px;
-        border-image: svg(1 px-border param(--color #333)) 2 2 stretch;
+        border-image: svg(1px-border param(--color #333)) 2 2 stretch;
     }
 
     [aspectratio-content] img {

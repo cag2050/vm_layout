@@ -18,14 +18,11 @@ export default {
 }
 </script>
 
-<!-- Add "scoped" attribute to limit CSS to this component only -->
-<style scoped>
-    [w-750-235] {
-        width: 750px;
-        z-index: 5000;
-    }
+<style scoped lang="stylus" type="text/stylus">
+    [w-750-235]
+        width 750px
+        z-index 5000
 
-    [w-750-235] {
-        aspect-ratio: '750:250';
-    }
+    [w-750-235]
+        aspect-ratio '750:250'
 </style>
