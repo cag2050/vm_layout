@@ -5,7 +5,7 @@
 * 说明：
 1. postcss可以和stylus一起配合使用
 
-* 出处：https://www.w3cplus.com/mobile/vw-layout-in-vue.html
+* 参考：https://www.w3cplus.com/mobile/vw-layout-in-vue.html
 
 > A Vue.js project
 
